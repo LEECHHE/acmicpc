@@ -1,0 +1,1 @@
+print(len(input().replace("c=","c").replace("c-","c").replace("dz=","c").replace("d-","n").replace("lj","l").replace("nj","n").replace("s=","s").replace("z=","z")))
